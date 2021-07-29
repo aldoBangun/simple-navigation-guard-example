@@ -22,9 +22,9 @@ export default {
       window.isAuthenticatedUser = this.isAuthenticatedUser
       
       if(!this.isAuthenticatedUser) {
-            this.$router.replace({name: 'login'})
-         }
+         this.$router.replace({name: 'login'})
       }
+   }
 }
 
 </script>

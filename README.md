@@ -11,7 +11,7 @@
 ## Disclaimer
 
 1. This is just for learning purpose only.
-2. For production, you have to install Vue SFC Compiler as a dev dependency `npm i -D vue/compiler-sfc`
+2. For production, you have to install Vue SFC Compiler as a dev dependency `npm i -D @vue/compiler-sfc`
 3. Feel free to PR to make this even better example 😉
 
 Thanks for Reading 💪
